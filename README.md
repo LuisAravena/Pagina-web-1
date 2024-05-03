@@ -45,8 +45,8 @@
           </ul>
 
           <form class="d-flex" role="search">
-            <input class="form-control me-2" type="email" placeholder="Explorar más" aria-label="email">
-            <button class="btn btn-primary btn-primary-outline-success" type="button">search</button>
+            <input class="form-control me-2" type="email" placeholder="Explorar más" aria-label="email"syle="width": 300px;">
+            <button class="btn btn-primary btn-primary-outline-success" type="button">Buscar</button>
           </form>
         </div>
       </div>
@@ -67,25 +67,25 @@
           <img src="./img/cheese-wheel-gouda.jpeg" class="d-block w-100" alt="slide2">
         </div>
         
-        <div class="carousel-item">
+        <div class="carousel-item"data-bs-interval="3000">
           <img src="./img/image-1776ee12-e583-4acc-a81d-cdbfb9abcd1f.png" class="d-block w-100" alt="slide3">
         </div>
 
-        <div class="carousel-item">
+        <div class="carousel-item"data-bs-interval="4000">
           <img src="./img/knoef_6833-1_preview.jpg" class="d-block w-100" alt="slide4">
         </div>
 
-        <div class="carousel-item">
+        <div class="carousel-item"data-bs-interval="5000">
           <img src="./img/como_producen_leche_las_vacas_23821_orig.jpg" class="d-block w-100" alt="slide5">
         </div>
       
       <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleInterval" data-bs-slide="prev">
         <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-        <span class="visually-hidden">Previous</span>
+        <span class="visually-hidden">Anterior</span>
       </button>
       <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleInterval" data-bs-slide="next">
         <span class="carousel-control-next-icon" aria-hidden="true"></span>
-        <span class="visually-hidden">Next</span>
+        <span class="visually-hidden">Siguiente</span>
       </button>
      </div>
     <!-- =============== -->
@@ -94,7 +94,7 @@
 
     <section class="w-50 mx-auto text-center pt-5" id="intro"> 
       <h1 class="p-3 fs-2 border-top border-3">Cooperativa Lechera Araucanía<span class="text-primary"></span></h1>
-      <p class="p-3 fs-4"><span class="text-primary">MELTIA</span>Además, como cooperativa, nos dedicamos a ofrecer productos lácteos de excelencia y te invitamos a ser parte de nuestra comunidad. Únete a nosotros para disfrutar de los beneficios de la leche fresca y nutritiva directamente de nuestros productores asociados.</p></section>
+      <p class="p-3 fs-4"><span class="text-primary"></span>Además, como cooperativa, nos dedicamos a ofrecer productos lácteos de excelencia y te invitamos a ser parte de nuestra comunidad. Únete a nosotros para disfrutar de los beneficios de la leche fresca y nutritiva directamente de nuestros productores asociados.</p></section>
     
     <!-- =============== -->
     <!--  SERVICIOS --!>
